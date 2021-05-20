@@ -1,0 +1,69 @@
+
+
+html {
+    font-size: 10px;
+    
+    
+}
+
+body {
+    background: #2193b0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.info-box .options h1 {
+    font-size: 2.5rem;
+   
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+.heading-primary {
+    font-size: 6rem;
+}
+header {
+    margin-bottom: 5rem;
+}
+.main {
+   
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.info-box {
+    
+  
+   
+    
+    background-color: #eeee;
+    border: 1px solid #eeee;
+    box-shadow: 2px 2px 5px rgba(255,255,255,0.7);
+    width: 60%;
+
+   
+    padding: 1rem;
+    border-radius: 5px;
+    
+    
+}
+.info-box h1 {
+    font-size: 5rem;
+}
+
+.info-box .container button {
+    text-align: left;
+    font-size: 2rem;
+}
+.info-box .question {
+    font-size: 3rem;
+    color: #2193b0;
+    text-align: center;
+
+}
